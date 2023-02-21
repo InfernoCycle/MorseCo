@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConsMorse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConsMorse_jar</output-path>
+    <root id="archive" name="ConsMorse.jar">
+      <element id="module-output" name="ConsMorse" />
+    </root>
+  </artifact>
+</component>
