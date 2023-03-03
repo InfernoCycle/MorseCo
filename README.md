@@ -16,7 +16,7 @@ Next, make sure you put the jre/jdk bin folder into your systems enviornmental v
 ![image](https://user-images.githubusercontent.com/105338348/222265205-67b9b536-7ec5-4728-be31-f2ec9259f34e.png)
 
 ## Con's Morse Code Chart
-The Morse Code Chart that I'm using can be found in /MorseCo/src/randoFiles/morse.txt
+The Morse Code Chart that I'm using can be found in [/MorseCo/src/randoFiles/morse.txt](https://github.com/InfernoCycle/MorseCo/tree/master/src/randoFiles)
 
 ## Issues
 If for some reason the jar file cannot run, please run the source code provided by using the command line
