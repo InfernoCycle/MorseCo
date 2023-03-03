@@ -26,3 +26,6 @@ Starting from the directory containing the source file "App.java":
 javac App.java
 java App.java
 ```
+
+## Extra Notes
+It is recommended to use my [chart](https://github.com/InfernoCycle/MorseCo/blob/master/src/randoFiles/morse.txt) in order for the program to distinguish uppercase from lowercase, but it is not required.
