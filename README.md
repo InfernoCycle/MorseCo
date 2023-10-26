@@ -28,4 +28,9 @@ java App.java
 ```
 
 ## Extra Notes
-It is recommended to use my [chart](https://github.com/InfernoCycle/MorseCo/blob/master/src/randoFiles/morse.txt) in order for the program to distinguish uppercase from lowercase, but it is not required.
+It is recommended to use my [chart](https://github.com/InfernoCycle/MorseCo/blob/master/src/randoFiles/morse.txt) in order for the program to distinguish uppercase from lowercase, but it is not required. 
+
+What is required however is to make sure each morse code pattern has its own line and are space seperated between the letters and pattern.
+
+##Future Updates
+There will be a future update before the year end (2023) to accept regular case morse code.
