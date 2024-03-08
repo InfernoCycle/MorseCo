@@ -33,4 +33,4 @@ It is recommended to use my [chart](https://github.com/InfernoCycle/MorseCo/blob
 What is required however is to make sure each morse code pattern has its own line and are space seperated between the letters and pattern.
 
 ##Future Updates
-There will be a future update before the year end (2023) to accept regular case morse code.
+There will be a future update before the year end (2024) to accept regular case morse code.
