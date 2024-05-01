@@ -18,7 +18,7 @@ simply download the jar file [here]() and run it.
 "Text to Morse" converts text into usable morse code.
 "Morse to Text" converts morse code into usable text.
 
-## options (bottom)
+## Options (bottom)
 1. "Regular" option changes all spaces to "/" and vice versa.
 2. "Custom" option changes all spaces to 7 dots "......." instead of the regular forward slash "/" used and vice versa.
 
