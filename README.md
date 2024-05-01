@@ -8,7 +8,7 @@ MorseCo is just a regular morse code translator for everyday use. No ads, no sus
 Make sure you have Java installed for your system. If not, you can download the JDK [here](https://www.oracle.com/java/technologies/downloads/#jdk19-linux) 
 
 ## Getting Started
-simply download the jar file [here]() and run it.
+simply download the jar file [here](https://github.com/InfernoCycle/MorseCo/releases/tag/v2.0) and run it.
 
 ## Program
 ![image](https://github.com/InfernoCycle/MorseCo/assets/105338348/1b602e5c-db50-4ddc-89db-2f43f6a693da)
