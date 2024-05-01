@@ -12,7 +12,7 @@ Next, make sure you put the jre/jdk bin folder into your systems enviornmental v
 3. There you will find the jar file that you can run to start the program.
 
 ## Program
-![image](https://user-images.githubusercontent.com/105338348/222265043-b6ae2e75-3da1-4411-9592-231daaab745b.png)
+![image](![image](https://github.com/InfernoCycle/MorseCo/assets/105338348/1b602e5c-db50-4ddc-89db-2f43f6a693da))
 ![image](https://user-images.githubusercontent.com/105338348/222265205-67b9b536-7ec5-4728-be31-f2ec9259f34e.png)
 
 ## Con's Morse Code Chart
